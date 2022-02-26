@@ -1,3 +1,11 @@
 .style{
    background-color:#2D2013 ; 
 }
+
+#error-message{
+   display: none;
+}
+.card img{
+   height: 250px;
+   
+}
